@@ -1,22 +1,7 @@
 {
-    "name": "tailwindcss",
-    "version": "1.0.0",
-    "description": "This code is made by me with the help of the youtube channel codewithharry.",
-    "main": "index.js",
     "scripts": {
         "start": "vite"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/chiragj-coder/tailwindcss-cwh.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/chiragj-coder/tailwindcss-cwh/issues"
-    },
-    "homepage": "https://github.com/chiragj-coder/tailwindcss-cwh#readme",
     "devDependencies": {
         "autoprefixer": "^10.4.1",
         "postcss": "^8.4.5",
