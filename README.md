@@ -1,6 +1,10 @@
 # tailwindcss-cwh
- This code is made by me with the help of the youtube channel codewithharry.
+This code is made by me with the help of the youtube channel ****CodeWthHarry****.
+## Setup
 
-Run below command in each directory to successfully run files in each directory :-
+Setup tailwind in each tutorial folder using below command
 
-> npm i
+```bash
+  npm i
+```
+    
